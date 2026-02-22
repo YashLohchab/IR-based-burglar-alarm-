@@ -40,7 +40,3 @@ This project is suitable for beginners learning Arduino and basic embedded syste
 - Cathode (–) → GND
 
 ---
-
-
-  }
-}
